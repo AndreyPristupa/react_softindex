@@ -1,0 +1,28 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+#content {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.container {
+  width: 70%;
+  margin: 20px auto;
+}
+
+#form {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  .input-control {
+    display: inline-block;
+    margin-right: 20px;
+  }
+}
+
+.friends-list {
+  width: 70%;
+  margin: 20px auto;
+}
